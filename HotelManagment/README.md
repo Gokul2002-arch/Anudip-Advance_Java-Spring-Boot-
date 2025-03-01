@@ -1,3 +1,3 @@
-JpaHibernateByHotels
+JpaHibernateByHotelsmanagmentsystem
 
-Intership first project
+Anudip Foundation
